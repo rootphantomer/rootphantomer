@@ -1,2 +1,1 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rootphantomer)](https://github.com/anuraghazra/github-readme-stats)
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=rootphantomer&include_all_commits=true&count_private-true&custom_title=rootphantomer'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
