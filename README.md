@@ -1,1 +1,1 @@
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=rootphantomer&include_all_commits=true&count_private-true&custom_title=rootphantomer'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
+![](https://github-readme-stats.vercel.app/api?username=rootphantomer&show_icons=true&include_all_commits=true&theme=swift&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rootphantomer&layout=compact&theme=swift&hide_border=true)
