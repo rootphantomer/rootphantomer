@@ -11,7 +11,7 @@
 
 一个普通的打工人。
 
-# My GitHub contributions as a Game of Life
+## My GitHub contributions as a Game of Life
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/rootphantomer.gif?z=6)](https://github4life.herokuapp.com/rootphantomer)
 
