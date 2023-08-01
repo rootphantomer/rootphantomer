@@ -11,9 +11,9 @@
 
 一个普通的打工人。
 
-## My GitHub contributions as a Game of Life
+## My GitHub Streak
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/rootphantomer.gif?z=6)](https://github4life.herokuapp.com/rootphantomer)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rootphantomer)](https://git.io/streak-stats)
 
 <!-- ## Things I am passionate about
 
