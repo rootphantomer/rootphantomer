@@ -11,11 +11,12 @@
 
 一个普通的打工人。
 
+<!-- 
 ## My GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rootphantomer)](https://git.io/streak-stats)
 
-<!-- ## Things I am passionate about
+## Things I am passionate about
 
 - Android :robot:
 - Open source :octocat:
